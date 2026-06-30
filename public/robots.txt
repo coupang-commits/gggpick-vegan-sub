@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vegan.gggpick.com/sitemap.xml
