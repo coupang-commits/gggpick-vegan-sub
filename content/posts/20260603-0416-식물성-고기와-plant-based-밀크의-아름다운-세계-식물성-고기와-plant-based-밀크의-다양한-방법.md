@@ -1,5 +1,5 @@
 ---
-title: "식물성 고기와豆腐, plant- based 밀크의 아름다운 세계- 식물성 고기와豆腐, plant- based 밀크의 다양한 방법"
+title: "식물성 고기와, plant- based 밀크의 아름다운 세계- 식물성 고기와, plant- based 밀크의 다양한 방법"
 date: 2026-06-03T04:16:48.902+09:00
 slug: "식물성-고기와-plant-based-밀크의-아름다운-세계-식물성-고기와-plant-based-밀크의-다양한-방법"
 description: "식물성 고기와豆腐, plant-based 밀크는 전통적인 고기와 우유 대체제로 떠오르고 있습니다."
